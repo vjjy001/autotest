@@ -15,9 +15,8 @@
         "steps": [
           {
             "result": {
-              "duration": 53042545814,
-              "status": "failed",
-              "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Driver info: chromedriver\u003d2.0,platform\u003dWindows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 35.40 seconds\nBuild info: version: \u00272.51.0\u0027, revision: \u00271af067dbcaedd7d2ab9af5151fc471d363d97193\u0027, time: \u00272016-02-05 11:20:57\u0027\nSystem info: host: \u0027235700LT-DFSMS\u0027, ip: \u0027146.142.180.62\u0027, os.name: \u0027Windows 7\u0027, os.arch: \u0027amd64\u0027, os.version: \u00276.1\u0027, java.version: \u00271.7.0_75\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:526)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:249)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.\u003cinit\u003e(RemoteWebDriver.java:131)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.\u003cinit\u003e(RemoteWebDriver.java:144)\r\n\tat org.openqa.selenium.chrome.ChromeDriver.\u003cinit\u003e(ChromeDriver.java:170)\r\n\tat org.openqa.selenium.chrome.ChromeDriver.\u003cinit\u003e(ChromeDriver.java:159)\r\n\tat org.openqa.selenium.chrome.ChromeDriver.\u003cinit\u003e(ChromeDriver.java:116)\r\n\tat com.laus.autotest.CukeSteps.testCuke(CukeSteps.java:14)\r\n\tat ✽.Given i test cucumber(cukeTest.feature:4)\r\n"
+              "duration": 6455399361,
+              "status": "passed"
             },
             "name": "i test cucumber",
             "keyword": "Given ",
